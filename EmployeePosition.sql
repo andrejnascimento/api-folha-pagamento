@@ -1,0 +1,7 @@
+CREATE TABLE EmployeePosition(
+id INT PRIMARY KEY,
+createdAt DATE NOT NULL,
+dflag INT NOT NULL,
+name VARCHAR(30) NOT NULL,
+description VARCHAR(100) NOT NULL);
+

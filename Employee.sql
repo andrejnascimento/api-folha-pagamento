@@ -1,0 +1,7 @@
+CREATE TABLE Employee(
+id INT PRIMARY KEY,
+createdAt DATE NOT NULL,
+dflag INT NOT NULL,
+firstname VARCHAR(100) NOT NULL,
+lastname VARCHAR(100) NOT NULL);
+
